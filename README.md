@@ -24,3 +24,8 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 
 ### Sin transit gateway y con Dx connect gateway
 <img width="640" height="366" alt="Arquitectura7" src="https://github.com/user-attachments/assets/7fdaf9fb-6d9b-4d25-95ee-e33f630b5bc9" />
+
+## VPN
+
+### Patron de VPN Acelerada
+<img width="640" height="366" alt="Arquitectura8" src="https://github.com/user-attachments/assets/84f180d4-7cf0-403e-8bbc-bb5c576f04dd" />
