@@ -29,3 +29,9 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 
 ### Patron de VPN Acelerada
 <img width="640" height="366" alt="Arquitectura8" src="https://github.com/user-attachments/assets/84f180d4-7cf0-403e-8bbc-bb5c576f04dd" />
+
+## ENTRA ID
+
+### Uso de Azure Entra Id, para la autenticación desde AWS con Azure
+<img width="640" height="366" alt="Arquitectura9" src="https://github.com/user-attachments/assets/392966f0-0fd1-4c23-a2d8-62940316c57a" />
+
