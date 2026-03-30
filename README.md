@@ -21,3 +21,6 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 
 ### Virtual interface Private, sin transit gateways
 <img width="640" height="366" alt="Arquitectura6" src="https://github.com/user-attachments/assets/81054054-fe24-4f37-babd-1f724c9daf2f" />
+
+### Sin transit gateway y con Dx connect gateway
+<img width="640" height="366" alt="Arquitectura7" src="https://github.com/user-attachments/assets/7fdaf9fb-6d9b-4d25-95ee-e33f630b5bc9" />
