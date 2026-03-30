@@ -5,3 +5,5 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 ## Arquitectura usando Gateway Load Balancer, en modelo de inspección de VPC Centralizada (Oriente <---> Occidente)
 <img width="640" height="366" alt="Arquitectura1" src="https://github.com/user-attachments/assets/7495d4bb-4e4b-4bd4-bb3a-04ebd1bbf7a0" />
 
+## Arquitectura usando Gateway Load Balancer, en modelo de inspección de VPC Centralizada (Norte <---> Sur)
+<img width="640" height="366" alt="Arquitectura2" src="https://github.com/user-attachments/assets/a660703b-b277-47f2-bca7-40d3b9dde5a2" />
