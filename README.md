@@ -7,3 +7,6 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 
 ## Arquitectura usando Gateway Load Balancer, en modelo de inspección de VPC Centralizada (Norte <---> Sur)
 <img width="640" height="366" alt="Arquitectura2" src="https://github.com/user-attachments/assets/a660703b-b277-47f2-bca7-40d3b9dde5a2" />
+
+## Arquitectura de VPC de inspección de trafico centralizada, usando VPC Endpoints pero con firewalls de terceros
+<img width="640" height="366" alt="Arquitectura3" src="https://github.com/user-attachments/assets/23b98db2-c403-491c-b62e-ea6a056eb667" />
