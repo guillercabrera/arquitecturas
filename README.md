@@ -15,3 +15,6 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 <img width="640" height="366" alt="Arquitectura4" src="https://github.com/user-attachments/assets/cf0f62c7-7415-48f8-b9d1-eb082e8ef8e5" />
 
 ## DIRECT CONNECT 
+
+### Uso de Direct Connect con Transit Gateway, transit virtual interface, direct connect gateway
+<img width="640" height="366" alt="Arquitectura5" src="https://github.com/user-attachments/assets/5d44bc32-5fe8-4dfe-a939-2fce0ac97182" />
