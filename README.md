@@ -35,3 +35,8 @@ Estas arquitecturas con genéricas y no reflejan ninguna implementación especif
 ### Uso de Azure Entra Id, para la autenticación desde AWS con Azure
 <img width="640" height="366" alt="Arquitectura9" src="https://github.com/user-attachments/assets/392966f0-0fd1-4c23-a2d8-62940316c57a" />
 
+## CLOUD WAN
+
+### Componentes claves de Cloud Wan
+<img width="640" height="366" alt="Arquitectura10" src="https://github.com/user-attachments/assets/a6aaac7c-7295-495e-8d50-48af34c305ec" />
+
